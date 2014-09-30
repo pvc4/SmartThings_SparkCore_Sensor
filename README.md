@@ -17,11 +17,19 @@ The SmartThings application defines a new Device Type and uses Spark Core APIs t
 
 1. Create a new device type (https://graph.api.smartthings.com/ide/devices) with Name: Spark Core Temperature Sensor, Author: Krishnaraj Varma, Capabilities: Polling Relative Humidity Measurement Sensor Temperature Measurement
 
-2. Create a new device (https://graph.api.smartthings.com/device/list) with Name: Your Choice, Device Network Id: Your Choicem Type: Spark Core Temperature Sensor (should be the last option), Location: Choose the correct location, Hub/Group: Leave blank
+2. Create a new device (https://graph.api.smartthings.com/device/list) with Name: 
+   Your Choice, Device Network Id:
+   Your Choicem Type: Spark Core Temperature Sensor (should be the last option), Location: Choose the correct location, Hub/Group: Leave blank
 
-3. Update device preferences, Click on the new device to see the details. Click the edit button next to Preferences and Enter the Device ID and Access Token
+3. Update device preferences, Click on the new device to see the details. 
+   Click the edit button next to Preferences and Enter the Device ID and Access Token
 
 4. Open the Mobile Application and add the newly created device, click refresh to see the Temperature and Humidity values
+
+
+
+
+
 
 **Screenshots**
 
